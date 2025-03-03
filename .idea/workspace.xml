@@ -5,16 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="76f4c469-5173-43a6-ad5b-a6e18eaff6b7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/calc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/randomwalk_turle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/timer.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/turtle_line2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/up-and-down-game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/red-heart.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/turtle_circle.py" beforeDir="false" afterPath="$PROJECT_DIR$/turtle_circle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/turtle_drawing.py" beforeDir="false" afterPath="$PROJECT_DIR$/turtle_drawing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/turtle_line.py" beforeDir="false" afterPath="$PROJECT_DIR$/turtle_line.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/turtle_polygon.py" beforeDir="false" afterPath="$PROJECT_DIR$/turtle_polygon.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +48,7 @@
   "keyToString": {
     "Python.calc.executor": "Run",
     "Python.randomwalk_turle.executor": "Run",
+    "Python.red-heart.executor": "Run",
     "Python.sum_program.executor": "Run",
     "Python.timer.executor": "Run",
     "Python.turtle.executor": "Run",

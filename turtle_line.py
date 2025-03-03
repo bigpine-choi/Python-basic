@@ -8,3 +8,4 @@ t.speed(0)
 for x in range(200):
     t.forward(x)
     t.left(angle)
+t.mainloop()

@@ -1,18 +1,51 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="76f4c469-5173-43a6-ad5b-a6e18eaff6b7" name="Changes" comment="" />
+    <list default="true" id="76f4c469-5173-43a6-ad5b-a6e18eaff6b7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/calc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/randomwalk_turle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/timer.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/turtle_line2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/up-and-down-game.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtle_circle.py" beforeDir="false" afterPath="$PROJECT_DIR$/turtle_circle.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtle_drawing.py" beforeDir="false" afterPath="$PROJECT_DIR$/turtle_drawing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtle_line.py" beforeDir="false" afterPath="$PROJECT_DIR$/turtle_line.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/turtle_polygon.py" beforeDir="false" afterPath="$PROJECT_DIR$/turtle_polygon.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "bigpine-choi"
+  }
 }]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/bigpine-choi/Python-basic.git",
+    "accountId": "31e69565-5874-46c0-841a-bfb04621c39c"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2tn9CGaJBwscZA8QKsrQvOg9l9a" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -21,8 +54,19 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.calc.executor": "Run",
+    "Python.randomwalk_turle.executor": "Run",
+    "Python.sum_program.executor": "Run",
+    "Python.timer.executor": "Run",
+    "Python.turtle.executor": "Run",
+    "Python.turtle_circle.executor": "Run",
+    "Python.turtle_drawing.executor": "Run",
+    "Python.turtle_line.executor": "Run",
+    "Python.turtle_line2.executor": "Run",
+    "Python.turtle_polygon.executor": "Run",
+    "Python.up-and-down-game.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "main"
   }
 }]]></component>
   <component name="SharedIndexes">

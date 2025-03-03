@@ -25,3 +25,5 @@ t.left(90)
 t.color("blue")
 t.pensize(5)
 t.circle(50)
+
+t.mainloop()
